@@ -9,7 +9,7 @@ b = a + c;
 if (b === a) {
   console.log("a equal b");
 } else {
-  console.log("someting went worng"); // <----- ผลลัพธ์ เหตุผล คือ b ไม่เท่ากับ a เพราะ DataType string === number !!!!
+  console.log("someting went worng"); // <----- ผลลัพธ์ เหตุผล คือ b ไม่เท่ากับ a เพราะ DataType string != number !!!!
 }
 
 /////////////////////////////////////////////////////////////
