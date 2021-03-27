@@ -7,4 +7,4 @@ function CLINEAR(Lnum, Rnum) {
   let L2R = Lnum + Rnum;
   return L2R * Pair;
 }
-console.log(CLINEAR(L, R));
+console.log(CLINEAR(L, R)); // L as n R as m

@@ -24,6 +24,6 @@ function square(n) {
   return n * n;
 }
 
-//  Ans  เหมือน  1 .var square คือ การ stored in a variable   2.functon square คิอการ ประการ Function ปกติ การทำงานไม่ต่างกัน
+//  Ans  เหมือนกัน 1 .var square คือ การ stored in a variable   2.functon square คิอการ ประการ Function ปกติ การทำงานไม่ต่างกัน
 
 ////////////////////////////////////////////////////////////
